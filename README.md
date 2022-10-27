@@ -119,7 +119,7 @@
 * Interaction design foundation: [Website](https://www.nngroup.com/)
 * UX notebook: [Website](https://www.nngroup.com/)
 * UX beginner: [Website](https://www.nngroup.com/)
-
+* UX beginner: [Website](https://www.nngroup.com/)
 
 
 
