@@ -100,15 +100,15 @@
 
 
 ### Colors
-* Coolors: [Website](https://www.nngroup.com/)
-* Palentton: [Website](https://www.nngroup.com/)
-* Color hunt: [Website](https://www.nngroup.com/)
-* Picu color: [Website](https://www.nngroup.com/)
-* Adobe colors: [Website](https://www.nngroup.com/)
-* Muzli color: [Website](https://www.nngroup.com/)
-* Design seeds: [Website](https://www.nngroup.com/)
-* Site palette: [Website](https://www.nngroup.com/)
-* Khroma: [Website](https://www.nngroup.com/)
+* Coolors: [Website](https://coolors.co/)
+* Palentton: [Website](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* Color hunt: [Website](https://colorhunt.co/)
+* Picu color: [Website](https://color.adobe.com/es/PICU-color-theme-17871416/)
+* Adobe colors: [Website](https://color.adobe.com/es/create)
+* Muzli colors: [Website](https://colors.muz.li/)
+* Design seeds: [Website](https://www.design-seeds.com/)
+* Site palette: [Website][https://palette.site/)
+* Khroma: [Website](https://www.khroma.co/)
 
 ### Newsletters
 * Typewolf: [Website](https://www.nngroup.com/)
@@ -120,6 +120,14 @@
 * UX notebook: [Website](https://www.nngroup.com/)
 * UX beginner: [Website](https://www.nngroup.com/)
 * UX beginner: [Website](https://www.nngroup.com/)
+
+### Podcast
+* UI Breakfast: [Website](https://uibreakfast.com/category/podcast/)
+* NN/g UX Podcast: [Website](https://open.spotify.com/show/3GFTfWpfv6m8nhKsPOlT8m?si=f89d3d1f5bbd430d)
+* Future of UX: [Website](https://open.spotify.com/show/7s2Cy6IIimjxE4zVES9wWs?si=2f8f2db704024101)
+* UX Podcast: [Website](https://open.spotify.com/show/0eFh7xIEdxgSV8ymW0I1Qz?si=5bab12fcf9904b59)
+* Design Better: [Website](https://open.spotify.com/show/59RliaMdeDAkEgp9nj1Mkj?si=459acdcdf31540dc)
+* UX Coffee break with UX Anudeep: [Website](https://open.spotify.com/show/4EVuN3RygQKJCk958KuRzD?si=adea48c613b44f75)
 
 
 
